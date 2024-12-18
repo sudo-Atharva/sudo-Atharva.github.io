@@ -11,35 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Pursuing B.tech electronics and telecomunication RTMNU
+* diploma in mechatronics engineering, govermnet polytechnic,Nagpur 2023
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2023: intern
+  * Makxenia , Nagpur
+  * Helped with the development of a phone-based rental module for electric bikes, enabling
+convenient and contactless rentals through an IoT-powered mobile application.
+Designed and implemented an interface between Arduino and a PS2 controller for the "Beetle
+Bot" project, demonstrating strong hardware integration skills and a deep understanding of
+embedded systems.
+Actively participated in organizing Arduino Fast 2024, contributing to a successful event
+through effective teamwork and communication skills.
+Key Skills Developed: Proficiency in python and C++ and hardware integration.
+This internship provided valuable experience in the fields of IoT and robotics, solidifying my
+passion for a career in engineering.
+I am particularly interested in pursuing opportunities in Embedded system devlopment,
+leveraging the technical and collaborative skills gained at Makxenia.
+  * Supervisor: Makxenia Team
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical Skills:
+  * 3D Modelling and Embedded Systems: Possess a strong foundation in designing mechanical
+    systems using 3D modelling software and the ability to integrate them with embedded
+    systems for control and automation.
+  * AutoCAD: Proficient in using AutoCAD for creating 2D engineering drawings, essential for
+    design communication and manufacturing.
+  * PLC (Programmable Logic Controllers) & SCADA (Supervisory Control and DataAcquisition): Understand the principles and applications of PLCs for industrial      automation and SCADA systems for process monitoring and control.
+  * C Programming : Possess a working knowledge of C programming, a fundamental skill for
+    embedded system development and interacting with various hardware components.
+* Soft Skills:
+  * Effective Communication: Gained valuable communication skills through coursework and potentially group projects. (Tailor to your specific experiences)
+  * Teamwork: Developed teamwork abilities through collaboration with classmates on projects.
+  * Problem-Solving: Cultivated problem-solving skills through technical challenges encountered during the program.
+
 
 Publications
 ======
