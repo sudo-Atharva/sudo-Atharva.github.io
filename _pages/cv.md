@@ -21,15 +21,12 @@ Work experience
   * Makxenia , Nagpur
   * Helped with the development of a phone-based rental module for electric bikes, enabling
 convenient and contactless rentals through an IoT-powered mobile application.
-Designed and implemented an interface between Arduino and a PS2 controller for the "Beetle
+  * Designed and implemented an interface between Arduino and a PS2 controller for the "Beetle
 Bot" project, demonstrating strong hardware integration skills and a deep understanding of
 embedded systems.
-Actively participated in organizing Arduino Fast 2024, contributing to a successful event
+  * Actively participated in organizing Arduino Fast 2024, contributing to a successful event
 through effective teamwork and communication skills.
-Key Skills Developed: Proficiency in python and C++ and hardware integration.
-This internship provided valuable experience in the fields of IoT and robotics, solidifying my
-passion for a career in engineering.
-I am particularly interested in pursuing opportunities in Embedded system devlopment,
+  * I am particularly interested in pursuing opportunities in Embedded system devlopment,
 leveraging the technical and collaborative skills gained at Makxenia.
   * Supervisor: Makxenia Team
 
