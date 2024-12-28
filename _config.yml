@@ -259,10 +259,10 @@ defaults:
   - scope:
       path: ""
       type: publications
-    values:
+    values: false
       layout: single
       author_profile: true
-      share: fasle
+      share: true
       comments: true
   # _portfolio
   - scope:
